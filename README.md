@@ -5,4 +5,8 @@ Utilizei as instruções do exercício, realizando os cenários de usuário com 
 
 Considerei 2 cenários negativos para validação da API.
 
+Fiz as atualizações como solicitado. Criei uma nova collection apresentadno uma variavel que aprendi. Acredito que ssa vez esteja tudo nos conformes.
+
+##### Obrigado!
+
 #### END
